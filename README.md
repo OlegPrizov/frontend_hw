@@ -16,4 +16,4 @@
     ```bash
     cd frontend_hw/
     ```
-3. Откройте `index.html` в вашем браузере.
+3. Откройте `index.html` или `article.html` в вашем браузере.

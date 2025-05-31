@@ -12,8 +12,8 @@
     ```bash
     git clone git@github.com:OlegPrizov/frontend_hw.git
     ```
-2. Перейдите в директорию проекта:
+2. Перейдите в нужную директорию:
     ```bash
-    cd frontend_hw.git
+    cd frontend_hw/
     ```
 3. Откройте `index.html` в вашем браузере.
